@@ -43,8 +43,8 @@ function OrphanegesMap() {
       </aside>
 
       <Map
-        center={[-23.5437565,-46.4297036]}
-        zoom={15}
+        center={[-23.5652911,-46.6498693]}
+        zoom={12}
         style={{ width: '100%', height: '100%' }}
       >
         {/* <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" /> */}
